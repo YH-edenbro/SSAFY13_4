@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 git revert practice1
 
-git revert practice2
-
-git revert practice3
-=======
-git revert practice1
->>>>>>> parent of cdda858 (revert 연습2)
+git Unstage test1
